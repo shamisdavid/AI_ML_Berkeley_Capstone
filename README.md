@@ -55,7 +55,8 @@ This analysis investigates how tweet sentiment affects stock prices using a data
 - Longer-term returns may be influenced by additional market factors beyond sentiment.
 
 
-
+#### Next Steps
+For the second part of this project, I will begin with a linear regression model as our baseline machine learning model. Linear regression is an effective model to implement in this analysis because it will be capable of placing the correlation between stock price movement and tweet sentiment into simpler terms. With this model implemented as a baseline, it will be capable of comparing its accuracy to more intricate models like random forest regression or neural networks in the future.
 
 
 
