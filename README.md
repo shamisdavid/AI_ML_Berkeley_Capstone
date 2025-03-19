@@ -87,7 +87,7 @@ The poor performance of Linear Regression led to trying Random Forest Regression
 
 ### Financial Implications & Investment Insights
 
-- Short-Term Trading Strategies: The findings from Random Forest show that non-obvious patterns in the direction of stock movement can be detected by machine learning algorithms. Short-term traders may use sentiment information with technical indicators like volatility and momentum.
+- Short-Term Trading Strategies: The findings from Random Forest show that non-obvious patterns in the direction of stock movement can be detected by machine learning algorithms. Short-term traders can potentially use sentiment information with technical indicators like volatility and momentum.
 - Risk Management: Volatility analysis shows that highly volatile stocks remain so in the longer term. Sentiment trends can be utilized by investors to anticipate changes and hedge against them in advance.
 
 
