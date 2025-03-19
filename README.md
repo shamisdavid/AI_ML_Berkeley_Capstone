@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This analysis investigates how tweet sentiment affects stock prices using a dataset containing stock return data and tweet sentiment scores. The dataset was preprocessed, cleaned, and visualized to understand relationships between sentiment polarity, stock returns, trading volume, and tweet counts. New features were also added through engineering before applying Machine Learning techniques like Linear Regression and Random Forest Regression.
+This analysis investigates how tweet sentiment affects stock prices using a dataset containing stock return data and tweet sentiment scores. The dataset was processed, cleaned, and visualized to understand relationships between sentiment polarity, stock returns, trading volume, and tweet counts. New features were also added through engineering before applying Machine Learning techniques like Linear Regression and Random Forest Regression.
 
 ### Data Cleaning and Preprocessing
 
