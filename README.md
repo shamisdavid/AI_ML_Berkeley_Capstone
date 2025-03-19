@@ -1,4 +1,4 @@
-# AI_ML_Berkeley_Capstone_20.1
+# AI_ML_Berkeley_Capstone_24
 
 # Exploratory Data Analysis (EDA): Impact of Tweet Sentiments on Stock Prices
 
@@ -62,7 +62,8 @@ For the second part of this project, I will begin with a linear regression model
 
 ### Repository Structure
 
-- CapstoneReport.ipynb: Jupyter Notebook with full EDA analysis.
-- screenshots/: Folder containing images of generated plots.
-- data/: Folder containing the dataset.
-- README.md: This document summarizing the analysis.
+- CapstonePart1/: Jupyter Notebook with full EDA analysis for Module 20.l, Part 1 of the Capstone. Also includes README.
+- CapstonePart2/: Updated Jupyter Notebook with full EDA analysis and ML application for Module 24.1, Part 2 of the Capstone.
+- Images/: Folder containing images of generated plots.
+- Data/: Folder containing the dataset.
+- README.md: This updated document summarizing the analysis using Notebook from Part 2. 
