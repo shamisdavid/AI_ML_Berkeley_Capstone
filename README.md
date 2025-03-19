@@ -66,4 +66,8 @@ For the second part of this project, I will begin with a linear regression model
 - CapstonePart2/: Updated Jupyter Notebook with full EDA analysis and ML application for Module 24.1, Part 2 of the Capstone.
 - Images/: Folder containing images of generated plots.
 - Data/: Folder containing the dataset.
-- README.md: This updated document summarizing the analysis using Notebook from Part 2. 
+- README.md: This updated document summarizing the analysis using Notebook from Part 2.
+
+### Sources
+
+- https://www.kaggle.com/datasets/thedevastator/tweet-sentiment-s-impact-on-stock-returns/data
